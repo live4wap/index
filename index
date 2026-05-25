@@ -1,11 +1,20 @@
 [
   { 
-    "name": "TATAPLAY", 
-    "player": "player0", 
-    "jsonList": "https://raw.githubusercontent.com/live4wap/links/refs/heads/main/tataplay", 
-    "dataSource": "https://raw.githubusercontent.com/opensourceflix/OpenSourceFlix/main/tptv.m3u8", 
-    "matchRule": "url", 
-    "findRule": "full",
+    "name": "DD FREE DTH", 
+    "player": "player5", 
+    "jsonList": "https://raw.githubusercontent.com/live4wap/links/refs/heads/main/dth", 
+    "dataSource": "", 
+    "matchRule": "name", 
+    "findRule": "url",
+    "streamTemplate": ""
+  },
+  { 
+    "name": "ROARZONE", 
+    "player": "player4", 
+    "jsonList": "https://raw.githubusercontent.com/live4wap/links/refs/heads/main/roarzone", 
+    "dataSource": "https://rslivetv.vercel.app/playlist.json", 
+    "matchRule": "name", 
+    "findRule": "url",
     "streamTemplate": ""
   },
   { 
@@ -25,32 +34,6 @@
     "matchRule": "name", 
     "findRule": "full",
     "streamTemplate": ""
-  },
-  { 
-    "name": "DD FREE DTH", 
-    "player": "player5", 
-    "jsonList": "https://raw.githubusercontent.com/live4wap/links/refs/heads/main/dth", 
-    "dataSource": "", 
-    "matchRule": "name", 
-    "findRule": "full",
-    "streamTemplate": ""
-  },
-  { 
-    "name": "LIVE MATCH", 
-    "player": "player0", 
-    "jsonList": "https://raw.githubusercontent.com/live4wap/links/refs/heads/main/sports", 
-    "dataSource": "YAHA_SPORTS_M3U_LINK_DALO", 
-    "matchRule": "id", 
-    "findRule": "full",
-    "streamTemplate": ""
-  },
-  { 
-    "name": "SONY", 
-    "player": "player6", 
-    "jsonList": "https://raw.githubusercontent.com/live4wap/links/refs/heads/main/sony", 
-    "dataSource": "", 
-    "matchRule": "", 
-    "findRule": "", 
-    "streamTemplate": "https://webplay.rf.gd/sony/player.html?script=https://temp.webplay.fun/sony/sony.php?url=https://cloudplay-sonyliv.pages.dev/${id}.php"
   }
+  
 ]
