@@ -9,9 +9,9 @@
     "streamTemplate": ""
   },
   { 
-    "name": "ROARZONE", 
+    "name": "AYNA", 
     "player": "player4", 
-    "jsonList": "https://raw.githubusercontent.com/live4wap/links/refs/heads/main/roarzone", 
+    "jsonList": "https://raw.githubusercontent.com/live4wap/links/refs/heads/main/ayna", 
     "dataSource": "https://rslivetv.vercel.app/playlist.json", 
     "matchRule": "name", 
     "findRule": "url",
