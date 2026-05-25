@@ -28,11 +28,11 @@
   },
   { 
     "name": "DD FREE DTH", 
-    "player": "player", 
+    "player": "player5", 
     "jsonList": "https://raw.githubusercontent.com/live4wap/links/refs/heads/main/dth", 
-    "dataSource": "https://raw.githubusercontent.com/live4wap/links/refs/heads/main/dth", 
-    "matchRule": "url", 
-    "findRule": "url",
+    "dataSource": "", 
+    "matchRule": "name", 
+    "findRule": "full",
     "streamTemplate": ""
   },
   { 
