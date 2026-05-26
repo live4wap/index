@@ -38,6 +38,16 @@
     "findRule": "url",
     "streamTemplate": ""
   },
+
+{ 
+    "name": "AYNA FREE", 
+    "player": "player4", 
+    "jsonList": "https://raw.githubusercontent.com/live4wap/links/refs/heads/main/aynafree", 
+    "dataSource": "", 
+    "matchRule": "url", 
+    "findRule": "url",
+    "streamTemplate": ""
+  },
   { 
     "name": "JIOHD", 
     "player": "player0", 
@@ -55,6 +65,15 @@
     "matchRule": "name", 
     "findRule": "full",
     "streamTemplate": ""
-  }
+  },
+{ 
+    "name": "TOFFEE", 
+    "player": "player4", 
+    "jsonList": "https://raw.githubusercontent.com/live4wap/links/refs/heads/main/toffee", 
+    "dataSource": "", 
+    "matchRule": "id", 
+    "findRule": "id",
+    "streamTemplate": "https://ottbanglaplatform.com/tv/toffee/live.php?id=${id}&e=.m3u8"
+  },
   
 ]
