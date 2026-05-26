@@ -74,6 +74,6 @@
     "matchRule": "id", 
     "findRule": "id",
     "streamTemplate": "https://ottbanglaplatform.com/tv/toffee/live.php?id=${id}&e=.m3u8"
-  },
+  }
   
 ]
