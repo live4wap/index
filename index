@@ -1,13 +1,24 @@
 [
   { 
     "name": "DD FREE DTH", 
-    "player": "player5", 
+    "player": "player4", 
     "jsonList": "https://raw.githubusercontent.com/live4wap/links/refs/heads/main/dth", 
     "dataSource": "", 
     "matchRule": "name", 
     "findRule": "url",
     "streamTemplate": ""
   },
+{ 
+    "name": "ROARZONE", 
+    "player": "player4", 
+    "jsonList": "https://raw.githubusercontent.com/live4wap/links/refs/heads/main/roarzone", 
+    "dataSource": "https://private-zone-by-xfireflix.pages.dev/playlist-isp-bdix.m3u", 
+    "matchRule": "url", 
+    "findRule": "url",
+    "streamTemplate": ""
+  },
+
+
   { 
     "name": "AYNA", 
     "player": "player4", 
