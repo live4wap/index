@@ -11,7 +11,7 @@
 
 { 
     "name": "CRICHD", 
-    "player": "player6", 
+    "player": "player3", 
     "jsonList": "https://raw.githubusercontent.com/live4wap/links/refs/heads/main/crichd", 
     "dataSource": "", 
     "matchRule": "id", 
