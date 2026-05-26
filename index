@@ -54,7 +54,7 @@
     "jsonList": "https://raw.githubusercontent.com/live4wap/links/refs/heads/main/jiohd", 
     "dataSource": "https://allinonereborn.online/jtv-fetch/jstarcookie/cookie.json", 
     "matchRule": "url", 
-    "findRule": "url",
+    "findRule": "full",
     "streamTemplate": ""
   },
   { 
