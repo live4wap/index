@@ -50,7 +50,7 @@
   },
   { 
     "name": "JIOHD", 
-    "player": "player0", 
+    "player": "player6", 
     "jsonList": "https://raw.githubusercontent.com/live4wap/links/refs/heads/main/jiohd", 
     "dataSource": "", 
     "matchRule": "id", 
