@@ -50,12 +50,12 @@
   },
   { 
     "name": "JIOHD", 
-    "player": "player6", 
+    "player": "player0", 
     "jsonList": "https://raw.githubusercontent.com/live4wap/links/refs/heads/main/jiohd", 
-    "dataSource": "", 
-    "matchRule": "id", 
-    "findRule": "id",
-    "streamTemplate": "https://joplay.lrl45.workers.dev/${id}"
+    "dataSource": "https://allinonereborn.online/jtv-fetch/jstarcookie/cookie.json", 
+    "matchRule": "url", 
+    "findRule": "url",
+    "streamTemplate": ""
   },
   { 
     "name": "ZEE 5", 
