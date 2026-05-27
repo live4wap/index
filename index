@@ -52,7 +52,7 @@
     "name": "JIOHD", 
     "player": "player0", 
     "jsonList": "https://raw.githubusercontent.com/live4wap/links/refs/heads/main/jiohd", 
-    "dataSource": "https://raw.githubusercontent.com/opensourceflix/OpenSourceFlix/refs/heads/main/iptv.m3u8", 
+    "dataSource": "https://allinonereborn.online/jtv-fetch/jstarcookie/cookie.json", 
     "matchRule": "url", 
     "findRule": "full",
     "streamTemplate": ""
