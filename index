@@ -1,4 +1,5 @@
 [
+
   { 
     "name": "DD FREE DTH", 
     "player": "player4", 
@@ -74,6 +75,33 @@
     "matchRule": "id", 
     "findRule": "id",
     "streamTemplate": "https://ottbanglaplatform.com/tv/toffee/live.php?id=${id}&e=.m3u8"
+  },
+{ 
+    "name": "CRICKET M3U8", 
+    "player": "player4", 
+    "jsonList": "https://raw.githubusercontent.com/Tvwap/links/refs/heads/main/cricket", 
+    "dataSource": "", 
+    "matchRule": "name", 
+    "findRule": "url",
+    "streamTemplate": ""
+  },
+{ 
+    "name": "CRICKET MPD", 
+    "player": "player0", 
+    "jsonList": "https://raw.githubusercontent.com/Tvwap/links/refs/heads/main/cricketmpd", 
+    "dataSource": "", 
+    "matchRule": "name", 
+    "findRule": "url",
+    "streamTemplate": ""
+  },
+{ 
+    "name": "FOOTBALL", 
+    "player": "player1", 
+    "jsonList": "https://raw.githubusercontent.com/Tvwap/links/refs/heads/main/football", 
+    "dataSource": "", 
+    "matchRule": "name", 
+    "findRule": "url",
+    "streamTemplate": ""
   }
   
 ]
