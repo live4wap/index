@@ -94,6 +94,15 @@
     "findRule": "url",
     "streamTemplate": ""
   },
+  { 
+    "name": "CRICKET", 
+    "player": "player6", 
+    "jsonList": "https://raw.githubusercontent.com/Tvwap/links/refs/heads/main/embed", 
+    "dataSource": "", 
+    "matchRule": "id", 
+    "findRule": "",
+    "streamTemplate": ""
+  },
 { 
     "name": "FOOTBALL", 
     "player": "player1", 
