@@ -95,7 +95,7 @@
     "streamTemplate": ""
   },
   { 
-    "name": "CRICKET", 
+    "name": "KHEL", 
     "player": "player6", 
     "jsonList": "https://raw.githubusercontent.com/Tvwap/links/refs/heads/main/embed", 
     "dataSource": "", 
@@ -104,9 +104,19 @@
     "streamTemplate": ""
   },
 { 
-    "name": "FOOTBALL", 
+    "name": "SPORTS M3U8", 
+    "player": "player4", 
+    "jsonList": "https://raw.githubusercontent.com/Tvwap/links/refs/heads/main/sports", 
+    "dataSource": "", 
+    "matchRule": "name", 
+    "findRule": "url",
+    "streamTemplate": ""
+  }
+  
+{ 
+    "name": "SPORTS MPD", 
     "player": "player1", 
-    "jsonList": "https://raw.githubusercontent.com/Tvwap/links/refs/heads/main/football", 
+    "jsonList": "https://raw.githubusercontent.com/Tvwap/links/refs/heads/main/sportsmpd", 
     "dataSource": "", 
     "matchRule": "name", 
     "findRule": "url",
