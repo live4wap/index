@@ -111,7 +111,7 @@
     "matchRule": "name", 
     "findRule": "url",
     "streamTemplate": ""
-  }
+  },
   
 { 
     "name": "SPORTS MPD", 
