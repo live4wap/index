@@ -74,7 +74,7 @@
     "dataSource": "", 
     "matchRule": "id", 
     "findRule": "id",
-    "streamTemplate": "https://ottbanglaplatform.com/tv/toffee/live.php?id=${id}&e=.m3u8"
+    "streamTemplate": "https://sm-monirul.top/toffee/play/${id}.m3u8"
   },
 
   { 
