@@ -59,6 +59,15 @@
     "streamTemplate": "https://live4wab.pages.dev?id=${id}"
   },
   { 
+    "name": "JIOMB", 
+    "player": "player1", 
+    "jsonList": "https://raw.githubusercontent.com/live4wap/links/refs/heads/main/jioo", 
+    "dataSource": "https://raw.githubusercontent.com/opensourceflix/OpenSourceFlix/refs/heads/main/iptv.m3u8", 
+    "matchRule": "url", 
+    "findRule": "cookie",
+    "streamTemplate": ""
+  },
+  { 
     "name": "ZEE 5", 
     "player": "player1", 
     "jsonList": "https://raw.githubusercontent.com/live4wap/links/refs/heads/main/zee5", 
