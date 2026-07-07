@@ -14,10 +14,10 @@
     "name": "CRICHD", 
     "player": "player3", 
     "jsonList": "https://raw.githubusercontent.com/live4wap/links/refs/heads/main/crichd", 
-    "dataSource": "", 
-    "matchRule": "id", 
-    "findRule": "id",
-    "streamTemplate": "https://crichd.johirxofficial.workers.dev/live/${id}.m3u8"
+    "dataSource": "https://raw.githubusercontent.com/srhady/crichd-speical-live-event/refs/heads/main/playlist.m3u", 
+    "matchRule": "name", 
+    "findRule": "url",
+    "streamTemplate": ""
   },
 { 
     "name": "ROARZONE", 
