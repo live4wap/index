@@ -17,7 +17,7 @@
     "dataSource": "https://raw.githubusercontent.com/srhady/crichd-speical-live-event/refs/heads/main/playlist.m3u", 
     "matchRule": "name", 
     "findRule": "url",
-    "proxy": "https://master-proxy.wispy-boat-fc77.workers.dev/?url=",
+    "proxy": "https://cz-pli2.hridoytvx.workers.dev/proxy/",
     "streamTemplate": ""
   },
 { 
