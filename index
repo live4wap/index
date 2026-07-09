@@ -12,7 +12,7 @@
 
 { 
     "name": "CRICHD", 
-    "player": "player3", 
+    "player": "player2", 
     "jsonList": "https://raw.githubusercontent.com/live4wap/links/refs/heads/main/crichd", 
     "dataSource": "https://raw.githubusercontent.com/srhady/crichd-speical-live-event/refs/heads/main/playlist.m3u", 
     "matchRule": "name", 
