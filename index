@@ -15,7 +15,7 @@
     "player": "player2", 
     "jsonList": "https://raw.githubusercontent.com/live4wap/links/refs/heads/main/crichd", 
     "dataSource": "https://raw.githubusercontent.com/dhpto/ejhkernjbhinjbgunhbghuifghbjikfhbgdfnhbnbfjijhfjfjhbnhbfhbnjhbnjhbfjinhbhnbfjibnfjibnjbnhdfjinhbjhnb/refs/heads/main/playlist.m3u", 
-    "matchRule": "id", 
+    "matchRule": "name", 
     "findRule": "url",
     "proxy": "https://cz-pli2.hridoytvx.workers.dev/proxy/",
     "streamTemplate": ""
