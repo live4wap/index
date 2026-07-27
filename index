@@ -94,6 +94,7 @@
     "dataSource": "", 
     "matchRule": "name", 
     "findRule": "url",
+"proxy": "no",
     "streamTemplate": ""
   },
 { 
