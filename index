@@ -33,9 +33,9 @@
     "player": "player2", 
     "jsonList": "https://raw.githubusercontent.com/live4wap/links/refs/heads/main/crichd", 
     "dataSource": "https://raw.githubusercontent.com/dhpto/ejhkernjbhinjbgunhbghuifghbjikfhbgdfnhbnbfjijhfjfjhbnhbfhbnjhbnjhbfjinhbhnbfjibnfjibnjbnhdfjinhbjhnb/refs/heads/main/playlist.m3u", 
-    "matchRule": "name", 
+    "matchRule": "id", 
     "findRule": "url",
-    "proxy": "https://master-proxy.wispy-boat-fc77.workers.dev/?url=",
+    "proxy": "https://tv2.wapgotube.workers.dev/proxy/https://cz-pli2.hridoytvx.workers.dev/proxy/",
     "streamTemplate": ""
   },
 { 
