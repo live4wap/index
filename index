@@ -35,7 +35,7 @@
     "dataSource": "https://raw.githubusercontent.com/dhpto/ejhkernjbhinjbgunhbghuifghbjikfhbgdfnhbnbfjijhfjfjhbnhbfhbnjhbnjhbfjinhbhnbfjibnfjibnjbnhdfjinhbjhnb/refs/heads/main/playlist.m3u", 
     "matchRule": "id", 
     "findRule": "url",
-    "proxy": "https://tv2.wapgotube.workers.dev/proxy/+https://cz-pli2.hridoytvx.workers.dev/proxy/",
+    "proxy": "yes+https://cz-pli2.hridoytvx.workers.dev/proxy/",
     "streamTemplate": ""
   },
 { 
