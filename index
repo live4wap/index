@@ -9,9 +9,17 @@
     "findRule": "url",
     "streamTemplate": ""
   },
-
   { 
     "name": "JIOHD", 
+    "player": "player6", 
+    "jsonList": "https://raw.githubusercontent.com/live4wap/links/refs/heads/main/jiohd", 
+    "dataSource": "", 
+    "matchRule": "id", 
+    "findRule": "",
+    "streamTemplate": "https://live4wab.pages.dev?id=${id}"
+  },
+  { 
+    "name": "SONYLIV", 
     "player": "player6", 
     "jsonList": "https://raw.githubusercontent.com/live4wap/links/refs/heads/main/sliv", 
     "dataSource": "", 
