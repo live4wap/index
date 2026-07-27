@@ -25,7 +25,7 @@
     "dataSource": "", 
     "matchRule": "id", 
     "findRule": "",
-    "streamTemplate": "https://live4wab.pages.dev/sony?id=${id}"
+    "streamTemplate": "https://live4wab.pages.dev/sony.html?id=${id}"
   },
 
 { 
