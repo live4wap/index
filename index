@@ -10,6 +10,16 @@
     "streamTemplate": ""
   },
 
+  { 
+    "name": "JIOHD", 
+    "player": "player6", 
+    "jsonList": "https://raw.githubusercontent.com/live4wap/links/refs/heads/main/sliv", 
+    "dataSource": "", 
+    "matchRule": "id", 
+    "findRule": "",
+    "streamTemplate": "https://live4wab.pages.dev/sony?id=${id}"
+  },
+
 { 
     "name": "CRICHD", 
     "player": "player2", 
@@ -50,15 +60,7 @@
     "findRule": "url",
     "streamTemplate": ""
   },
-  { 
-    "name": "JIOHD", 
-    "player": "player6", 
-    "jsonList": "https://raw.githubusercontent.com/live4wap/links/refs/heads/main/jiohd", 
-    "dataSource": "", 
-    "matchRule": "id", 
-    "findRule": "",
-    "streamTemplate": "https://live4wab.pages.dev?id=${id}"
-  },
+
   
   { 
     "name": "ZEE 5", 
