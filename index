@@ -102,9 +102,9 @@
     "player": "player4", 
     "jsonList": "https://raw.githubusercontent.com/Tvwap/links/refs/heads/main/cricket", 
     "dataSource": "", 
-    "matchRule": "name", 
+    "matchRule": "id", 
     "findRule": "url",
-"proxy": "no",
+    "proxy": "no",
     "streamTemplate": ""
   },
 { 
