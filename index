@@ -32,7 +32,7 @@
     "name": "CRICHD", 
     "player": "player2", 
     "jsonList": "https://raw.githubusercontent.com/live4wap/links/refs/heads/main/crichd", 
-    "dataSource": "https://raw.githubusercontent.com/dhpto/ejhkernjbhinjbgunhbghuifghbjikfhbgdfnhbnbfjijhfjfjhbnhbfhbnjhbnjhbfjinhbhnbfjibnfjibnjbnhdfjinhbjhnb/refs/heads/main/playlist.m3u", 
+    "dataSource": "https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/ALL.m3u", 
     "matchRule": "id", 
     "findRule": "url",
     "proxy": "yes+https://cz-pli2.hridoytvx.workers.dev/proxy/",
