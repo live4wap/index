@@ -95,7 +95,7 @@
     "dataSource": "", 
     "matchRule": "id", 
     "findRule": "",
-    "proxy": "yes"
+    "proxy": "yes",
     "streamTemplate": ""
   },
 { 
