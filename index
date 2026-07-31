@@ -38,36 +38,11 @@
     "proxy": "yes+https://cz-pli2.hridoytvx.workers.dev/proxy/",
     "streamTemplate": ""
   },
-{ 
-    "name": "ROARZONE", 
-    "player": "player4", 
-    "jsonList": "https://raw.githubusercontent.com/live4wap/links/refs/heads/main/roarzone", 
-    "dataSource": "https://raw.githubusercontent.com/opensourceflix/OpenSourceFlix/refs/heads/main/iptv.m3u8", 
-    "matchRule": "url", 
-    "findRule": "url",
-    "streamTemplate": ""
-  },
 
 
-  { 
-    "name": "AYNA", 
-    "player": "player4", 
-    "jsonList": "https://raw.githubusercontent.com/live4wap/links/refs/heads/main/ayna", 
-    "dataSource": "https://raw.githubusercontent.com/opensourceflix/OpenSourceFlix/refs/heads/main/iptv.m3u8", 
-    "matchRule": "url", 
-    "findRule": "url",
-    "streamTemplate": ""
-  },
+  
 
-{ 
-    "name": "AYNA FREE", 
-    "player": "player4", 
-    "jsonList": "https://raw.githubusercontent.com/live4wap/links/refs/heads/main/aynafree", 
-    "dataSource": "", 
-    "matchRule": "url", 
-    "findRule": "url",
-    "streamTemplate": ""
-  },
+
 
   
   { 
@@ -88,16 +63,7 @@
     "findRule": "url",
 "streamTemplate":""},
 
-  { 
-    "name": "SUNXT", 
-    "player": "player0", 
-    "jsonList": "https://raw.githubusercontent.com/live4wap/links/refs/heads/main/sunxt", 
-    "dataSource": "", 
-    "matchRule": "id", 
-    "findRule": "",
-    "proxy": "yes",
-    "streamTemplate": ""
-  },
+
 { 
     "name": "CRICKET M3U8", 
     "player": "player4", 
@@ -117,6 +83,17 @@
     "findRule": "url",
     "streamTemplate": ""
   },
+
+{ 
+    "name": "SPORTS", 
+    "player": "player2", 
+    "jsonList": "https://raw.githubusercontent.com/Tvwap/links/refs/heads/main/sports", 
+    "dataSource": "", 
+    "matchRule": "name", 
+    "findRule": "url",
+    "streamTemplate": ""
+  },
+
   { 
     "name": "KHEL", 
     "player": "player6", 
@@ -126,24 +103,7 @@
     "findRule": "",
     "streamTemplate": ""
   },
-{ 
-    "name": "SPORTS M3U8", 
-    "player": "player4", 
-    "jsonList": "https://raw.githubusercontent.com/Tvwap/links/refs/heads/main/sports", 
-    "dataSource": "", 
-    "matchRule": "name", 
-    "findRule": "url",
-    "streamTemplate": ""
-  },
   
-{ 
-    "name": "SPORTS MPD", 
-    "player": "player1", 
-    "jsonList": "https://raw.githubusercontent.com/Tvwap/links/refs/heads/main/sportsmpd", 
-    "dataSource": "", 
-    "matchRule": "name", 
-    "findRule": "url",
-    "streamTemplate": ""
-  }
+
   
 ]
