@@ -36,7 +36,7 @@
     "dataSource": "", 
     "matchRule": "id", 
     "findRule": "",
-    "streamTemplate": "https://tv4wab.pages.dev/Sony?id=${id}"
+    "streamTemplate": "https://waptv.wapka.site/?id=${id}"
   },
 
 { 
