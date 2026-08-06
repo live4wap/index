@@ -12,7 +12,7 @@
 { 
     "name": "FANCODE", 
     "player": "player6", 
-    "jsonList": "https://raw.githubusercontent.com/doctor-8trange/zyphx8/refs/heads/main/data/fancode.json", 
+    "jsonList": "https://raw.githubusercontent.com/Tvwap/links/refs/heads/main/fancode", 
     "dataSource": "", 
     "matchRule": "id", 
     "findRule": "id",
