@@ -9,6 +9,15 @@
     "findRule": "url",
     "streamTemplate": ""
   },
+{ 
+    "name": "FANCODE", 
+    "player": "player6", 
+    "jsonList": "https://raw.githubusercontent.com/doctor-8trange/zyphx8/refs/heads/main/data/fancode.json", 
+    "dataSource": "", 
+    "matchRule": "id", 
+    "findRule": "id",
+    "streamTemplate": "https://tvgo.wapka.site/?match=${id}&player=p1"
+  },
 
 { 
     "name": "AYNA FREE", 
