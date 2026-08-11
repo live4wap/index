@@ -16,7 +16,7 @@
     "dataSource": "", 
     "matchRule": "id", 
     "findRule": "id",
-    "streamTemplate": "https://tvgo.wapka.site/?id=${id}"
+    "streamTemplate": "https://tvgo.wapka.site/?match=${id}"
   },
 
 { 
