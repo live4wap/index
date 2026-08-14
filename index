@@ -81,7 +81,7 @@
     "dataSource": "", 
     "matchRule": "id", 
     "findRule": "url",
-"streamTemplate":"https://tv4wap.netlify.app?url=${url}"},
+"streamTemplate":"https://tv4wap.netlify.app?url=${url}",
 
 
 { 
