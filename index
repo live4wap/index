@@ -55,7 +55,7 @@
     "dataSource": "https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/ALL.m3u", 
     "matchRule": "id", 
     "findRule": "url",
-    "proxy": "yes+https://cz-pli2.hridoytvx.workers.dev/proxy/",
+    "proxy": "https://cz-pli2.hridoytvx.workers.dev/proxy/",
     "streamTemplate": ""
   },
 
