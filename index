@@ -76,12 +76,12 @@
   },
 { 
     "name": "TOFFEE", 
-    "player": "player4", 
+    "player": "player6", 
     "jsonList": "https://raw.githubusercontent.com/live4wap/links/refs/heads/main/toffee", 
     "dataSource": "", 
     "matchRule": "id", 
     "findRule": "url",
-"streamTemplate":""},
+"streamTemplate":"https://tv4wap.netlify.app?url=${url}"},
 
 
 { 
