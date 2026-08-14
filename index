@@ -40,12 +40,12 @@
   },
   { 
     "name": "SONYLIV", 
-    "player": "player6", 
+    "player": "player4", 
     "jsonList": "https://raw.githubusercontent.com/live4wap/links/refs/heads/main/sliv", 
     "dataSource": "", 
     "matchRule": "id", 
     "findRule": "",
-    "streamTemplate": "https://waptv.wapka.site/?id=${id}"
+    "streamTemplate": "https://live4wab.pages.dev/Sony?id=${id}"
   },
 
 { 
