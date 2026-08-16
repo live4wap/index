@@ -79,7 +79,7 @@
 { 
     "name": "CRICKET M3U8", 
     "player": "player4", 
-    "jsonList": "https://raw.githubusercontent.com/Tvwap/links/refs/heads/main/cricket", 
+    "jsonList": "https://raw.githubusercontent.com/Tvwap/links/refs/heads/main/cricketm3u8", 
     "dataSource": "", 
     "matchRule": "id", 
     "findRule": "url",
