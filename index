@@ -106,7 +106,7 @@
 
 { 
     "name": "SPORTS", 
-    "player": "player2", 
+    "player": "player1", 
     "jsonList": "https://raw.githubusercontent.com/Tvwap/links/refs/heads/main/sports", 
     "dataSource": "", 
     "matchRule": "name", 
