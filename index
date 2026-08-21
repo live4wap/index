@@ -2,6 +2,7 @@
 
   { 
     "name": "DD FREE DTH", 
+    "logo":"https://imgur.com/zsjvOoV",
     "player": "player4", 
     "jsonList": "https://raw.githubusercontent.com/live4wap/links/refs/heads/main/dth", 
     "dataSource": "", 
