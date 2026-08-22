@@ -87,7 +87,7 @@
     "name": "CRICKET M3U8", 
 "logo":"https://imgur.com/zsjvOoV",
     "player": "player4", 
-    "jsonList": "https://raw.githubusercontent.com/Tvwap/links/refs/heads/main/cricketm3u8", 
+    "jsonList": "https://blogger.googleusercontent.com/img/a/AVvXsEg1Hlqgi5-ZqvSdFtLai34RcTILrNU7Rq-LXitJamN_VGYAWTqQvlT_gERipA3h0Um0LuTSMtglkWwtgZA9CoyiZSuXZMVs--m6Tt4xKWZflU_zVnFRn7bQNK5gLoyMq01NX2vDpxd9Zma4PW7fp4i61qxMZlaVWUB2BRAGd2ytKtwz3MvQo1qNhWk5qYTN", 
     "dataSource": "", 
     "matchRule": "id", 
     "findRule": "url",
@@ -98,35 +98,35 @@
     "name": "CRICKET MPD", 
 "logo":"https://imgur.com/zsjvOoV",
     "player": "player0", 
-    "jsonList": "https://raw.githubusercontent.com/Tvwap/links/refs/heads/main/cricketmpd", 
+    "jsonList": "https://blogger.googleusercontent.com/img/a/AVvXsEg1xq5QhjdhpmS0vKGvi89d6UZG0RIU30k-WARhVAmZQw8APIAjy2m0qDtkRj-vQyyuYkkLmyyjAO5F_wRRFvy5fRj03CyE38sWYhvH8xsj9eYMDdvnVz3eEe7DuWqzaa-9a6aKI6oJDBsI1uXjPAngusGHHS5O4dgbjNkMwpVZQrR64v4Rgc6eWlXwkII6", 
     "dataSource": "", 
     "matchRule": "name", 
     "findRule": "url",
     "streamTemplate": ""
   },
 
-{ 
-    "name": "SPORTS", 
-"logo":"https://imgur.com/zsjvOoV",
-    "player": "player1", 
-    "jsonList": "https://raw.githubusercontent.com/Tvwap/links/refs/heads/main/sports", 
-    "dataSource": "", 
-    "matchRule": "name", 
-    "findRule": "url",
-    "streamTemplate": ""
-  },
+
 
   { 
     "name": "KHEL", 
-"logo":"https://imgur.com/zsjvOoV",
+"logo":"https://blogger.googleusercontent.com/img/a/AVvXsEixfWlxkdpAackOA8CCQODGA-SvNNv7p0fAftpWCbIqldG5Ko6s_EdjSfGPI1RJ_ePMNh6HJ_sXmPl4sOMTC5ZmJpOXBFPc4h2W2MltlevlHNjYBxlGi81TlrPzy0fO0oBh6h8EcFuIorXhdkQ3zq7auWKmYE_M69hx5yPm-CzHgAnfSJpFTvMlhagfxGiK",
     "player": "player6", 
     "jsonList": "https://raw.githubusercontent.com/Tvwap/links/refs/heads/main/khel", 
     "dataSource": "", 
     "matchRule": "id", 
     "findRule": "",
     "streamTemplate": ""
-  }
+  },
   
-
+{ 
+    "name": "SPORTS", 
+"logo":"https://img.magnific.com/premium-vector/football-game-sport-tv-channel-logo-design_106330-335.jpg",
+    "player": "player1", 
+    "jsonList": "https://raw.githubusercontent.com/Tvwap/links/refs/heads/main/sports", 
+    "dataSource": "", 
+    "matchRule": "name", 
+    "findRule": "url",
+    "streamTemplate": ""
+  }
   
 ]
