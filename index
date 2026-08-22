@@ -2,7 +2,7 @@
 
   { 
     "name": "DD FREE DTH", 
-    "logo":"https://imgur.com/zsjvOoV",
+    "logo":"https://upload.wikimedia.org/wikipedia/hi/e/e3/Logo_of_DD_Free_Dish.jpg?utm_source=hi.wikipedia.org&utm_campaign=index&utm_content=original",
     "player": "player4", 
     "jsonList": "https://raw.githubusercontent.com/live4wap/links/refs/heads/main/dth", 
     "dataSource": "", 
@@ -14,6 +14,7 @@
 
 { 
     "name": "AYNA FREE", 
+"logo":"https://play-lh.googleusercontent.com/nm3Om4wr3Gj9ZqpRvXQcZ8hr-xopqPnXPUak0_P138oeeYfCBsOTwq3dTcwylmxqPAmly5c4Z_QshgIMLw9qaA",
     "player": "player4", 
     "jsonList": "https://raw.githubusercontent.com/live4wap/links/refs/heads/main/aynafree", 
     "dataSource": "", 
@@ -24,6 +25,7 @@
   },
   { 
     "name": "JIOHD", 
+"logo":"https://yt3.googleusercontent.com/ytc/AIdro_lKULdxBE4H3HJlomG_vs3XMDk6FnCQA6zgO0EVZH5Kvg=s900-c-k-c0x00ffffff-no-rj",
     "player": "player6", 
     "jsonList": "https://raw.githubusercontent.com/live4wap/links/refs/heads/main/jiohd", 
     "dataSource": "", 
@@ -33,6 +35,7 @@
   },
   { 
     "name": "SONYLIV", 
+"logo":https://upload.wikimedia.org/wikipedia/commons/f/f7/SonyLIV_2020.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
     "player": "player6", 
     "jsonList": "https://raw.githubusercontent.com/live4wap/links/refs/heads/main/sliv", 
     "dataSource": "", 
@@ -43,6 +46,7 @@
 
 { 
     "name": "CRICHD", 
+"logo":"https://m.media-amazon.com/images/I/21h60OobgjL.jpg",
     "player": "player2", 
     "jsonList": "https://raw.githubusercontent.com/live4wap/links/refs/heads/main/crichd", 
     "dataSource": "https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/ALL.m3u", 
@@ -60,6 +64,7 @@
   
   { 
     "name": "ZEE 5", 
+"logo":"https://d5xydlzdo08s0.cloudfront.net/ondemand/media/celebrities/21972/marquee/zee5officiallogo_1.50x.jpeg",
     "player": "player1", 
     "jsonList": "https://raw.githubusercontent.com/live4wap/links/refs/heads/main/zee5", 
     "dataSource": "", 
@@ -69,6 +74,7 @@
   },
 { 
     "name": "TOFFEE", 
+"logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWwoQVZVaf98Yqo6IUOinX7B-DtvN1zI2BMSszV20GiqWJufuM2DhzPZmf&s=10",
     "player": "player6", 
     "jsonList": "https://raw.githubusercontent.com/live4wap/links/refs/heads/main/toffee", 
     "dataSource": "", 
@@ -79,6 +85,7 @@
 
 { 
     "name": "CRICKET M3U8", 
+"logo":"https://imgur.com/zsjvOoV",
     "player": "player4", 
     "jsonList": "https://raw.githubusercontent.com/Tvwap/links/refs/heads/main/cricketm3u8", 
     "dataSource": "", 
@@ -89,6 +96,7 @@
   },
 { 
     "name": "CRICKET MPD", 
+"logo":"https://imgur.com/zsjvOoV",
     "player": "player0", 
     "jsonList": "https://raw.githubusercontent.com/Tvwap/links/refs/heads/main/cricketmpd", 
     "dataSource": "", 
@@ -99,6 +107,7 @@
 
 { 
     "name": "SPORTS", 
+"logo":"https://imgur.com/zsjvOoV",
     "player": "player1", 
     "jsonList": "https://raw.githubusercontent.com/Tvwap/links/refs/heads/main/sports", 
     "dataSource": "", 
@@ -109,6 +118,7 @@
 
   { 
     "name": "KHEL", 
+"logo":"https://imgur.com/zsjvOoV",
     "player": "player6", 
     "jsonList": "https://raw.githubusercontent.com/Tvwap/links/refs/heads/main/khel", 
     "dataSource": "", 
