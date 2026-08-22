@@ -82,6 +82,18 @@
     "findRule": "url",
 "proxy":"https://tv4wap.netlify.app?url="},
 
+{ 
+    "name": "ROARZONE ", 
+"logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRioBpUSJHXahqQyRmRJR0VB03DphphAFmdDZdKn70khQ&s=10",
+    "player": "player4", 
+    "jsonList": "https://raw.githubusercontent.com/live4wap/links/refs/heads/main/roarzone", 
+    "dataSource": "", 
+    "matchRule": "id", 
+    "findRule": "url",
+"proxy":"https://footfytv.pro/proxy/direct?url=",
+    "streamTemplate": ""
+  },
+
 
 { 
     "name": "CRICKET M3U8", 
