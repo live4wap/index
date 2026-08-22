@@ -35,7 +35,7 @@
   },
   { 
     "name": "SONYLIV", 
-"logo":https://upload.wikimedia.org/wikipedia/commons/f/f7/SonyLIV_2020.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+"logo":"https://upload.wikimedia.org/wikipedia/commons/f/f7/SonyLIV_2020.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
     "player": "player6", 
     "jsonList": "https://raw.githubusercontent.com/live4wap/links/refs/heads/main/sliv", 
     "dataSource": "", 
@@ -73,10 +73,10 @@
     "streamTemplate": ""
   },
 { 
-    "name": "TOFFEE", 
+    "name": "TOFFEE",
 "logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWwoQVZVaf98Yqo6IUOinX7B-DtvN1zI2BMSszV20GiqWJufuM2DhzPZmf&s=10",
-    "player": "player6", 
-    "jsonList": "https://raw.githubusercontent.com/live4wap/links/refs/heads/main/toffee", 
+"player": "player6", 
+"jsonList":"https://raw.githubusercontent.com/live4wap/links/refs/heads/main/toffee", 
     "dataSource": "", 
     "matchRule": "id", 
     "findRule": "url",
