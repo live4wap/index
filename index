@@ -85,13 +85,13 @@
 { 
     "name": "ROARZONE ", 
 "logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRioBpUSJHXahqQyRmRJR0VB03DphphAFmdDZdKn70khQ&s=10",
-    "player": "player4", 
-    "jsonList": "https://raw.githubusercontent.com/live4wap/links/refs/heads/main/roarzone", 
+    "player": "player6", 
+    "jsonList": "https://raw.githubusercontent.com/live4wap/links/refs/heads/main/aynahd", 
     "dataSource": "", 
     "matchRule": "id", 
-    "findRule": "url",
-"proxy":"https://footfytv.pro/proxy/direct?url=",
-    "streamTemplate": ""
+    "findRule": "id",
+"proxy":"",
+    "streamTemplate": "https://rlive.freepage.cc/Ayna/stream.php?id=${id}&e=.m3u8&i=2"
   },
 
 
