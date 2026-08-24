@@ -39,7 +39,7 @@
     "player": "player6", 
     "jsonList": "https://raw.githubusercontent.com/live4wap/links/refs/heads/main/sonyhd", 
     "dataSource": "", 
-    "matchRule": "id", 
+    "matchRule": "id1", 
     "findRule": "",
     "streamTemplate": "https://tv.ashoktyar1.workers.dev/proxy/https://playyonogames.in/sliv/play.php?c=${id}"
   },
