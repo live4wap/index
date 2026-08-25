@@ -37,11 +37,11 @@
     "name": "SONYLIV", 
 "logo":"https://upload.wikimedia.org/wikipedia/commons/f/f7/SonyLIV_2020.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
     "player": "player4", 
-    "jsonList": "https://raw.githubusercontent.com/live4wap/links/refs/heads/main/sliv", 
+    "jsonList": "https://raw.githubusercontent.com/live4wap/links/refs/heads/main/sonyhd", 
     "dataSource": "", 
-    "matchRule": "id1", 
+    "matchRule": "id", 
     "findRule": "",
-    "streamTemplate": "https://tv.ashoktyar1.workers.dev/proxy/https://playyonogames.in/sliv/stream.m3u8?id=${id1}"
+    "streamTemplate": "https://tv.ashoktyar1.workers.dev/proxy/https://playyonogames.in/sliv/stream.m3u8?id=${id}"
   },
 
 { 
