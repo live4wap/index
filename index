@@ -36,7 +36,7 @@
   { 
     "name": "SONYLIV", 
 "logo":"https://upload.wikimedia.org/wikipedia/commons/f/f7/SonyLIV_2020.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
-    "player": "player4", 
+    "player": "player6", 
     "jsonList": "https://raw.githubusercontent.com/live4wap/links/refs/heads/main/sliv", 
     "dataSource": "", 
     "matchRule": "id", 
