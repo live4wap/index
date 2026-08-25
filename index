@@ -41,7 +41,7 @@
     "dataSource": "", 
     "matchRule": "id", 
     "findRule": "",
-    "streamTemplate": "https://tv.ashoktyar1.workers.dev/proxy/https://playyonogames.in/sliv/stream.m3u8?id=${id}"
+    "streamTemplate": "https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://playyonogames.in/sliv/stream.m3u8?id=${id}"
   },
 
 { 
