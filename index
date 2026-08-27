@@ -41,7 +41,7 @@
     "dataSource": "https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/ALL.m3u", 
     "matchRule": "id", 
     "findRule": "",
-    "streamTemplate": "https://live4wab.pages.dev/Sony?id=${id}&${id1}&${id2}"
+    "streamTemplate": "https://live4wab.pages.dev/Sony?id=${name}&${logo}&${url2}"
   },
 
 { 
