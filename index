@@ -37,8 +37,8 @@
     "name": "SONYLIV", 
 "logo":"https://upload.wikimedia.org/wikipedia/commons/f/f7/SonyLIV_2020.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
     "player": "player6", 
-    "jsonList": "hthttps://raw.githubusercontent.com/live4wap/links/refs/heads/main/sonum", 
-    "dataSource": "https://raw.githubusercontent.com/live4wap/links/refs/heads/main/sonum", 
+    "jsonList": "https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/ALL.m3u", 
+    "dataSource": "https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/ALL.m3u", 
     "matchRule": "id", 
     "findRule": "",
     "streamTemplate": "https://live4wab.pages.dev/Sony?id=${id}&${id1}&${id2}"
