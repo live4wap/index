@@ -38,10 +38,10 @@
 "logo":"https://upload.wikimedia.org/wikipedia/commons/f/f7/SonyLIV_2020.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
     "player": "player6", 
     "jsonList": "https://raw.githubusercontent.com/live4wap/links/refs/heads/main/sliv", 
-    "dataSource": "", 
+    "dataSource": "https://raw.githubusercontent.com/live4wap/links/refs/heads/main/sonyhd", 
     "matchRule": "id", 
     "findRule": "",
-    "streamTemplate": "https://live4wab.pages.dev/Sony?id=${id}"
+    "streamTemplate": "https://live4wab.pages.dev/Sony?id=${id}&{id1}&{id2}"
   },
 
 { 
