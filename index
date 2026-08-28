@@ -26,22 +26,22 @@
   { 
     "name": "JIOHD", 
 "logo":"https://yt3.googleusercontent.com/ytc/AIdro_lKULdxBE4H3HJlomG_vs3XMDk6FnCQA6zgO0EVZH5Kvg=s900-c-k-c0x00ffffff-no-rj",
-    "player": "player6", 
+    "player": "player0", 
     "jsonList": "https://raw.githubusercontent.com/live4wap/links/refs/heads/main/jiohd", 
-    "dataSource": "", 
-    "matchRule": "id", 
-    "findRule": "",
-    "streamTemplate": "https://live4wab.pages.dev?id=${id}"
+    "dataSource": "https://sonujson-v3.pages.dev/Data/sports.json", 
+    "matchRule": "name", 
+    "findRule": "cookie",
+    "streamTemplate": ""
   },
   { 
     "name": "SONYLIV", 
 "logo":"https://upload.wikimedia.org/wikipedia/commons/f/f7/SonyLIV_2020.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
-    "player": "player6", 
-    "jsonList": "https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/ALL.m3u", 
-    "dataSource": "https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/ALL.m3u", 
+    "player": "player4", 
+    "jsonList": "https://raw.githubusercontent.com/live4wap/links/refs/heads/main/sliv", 
+    "dataSource": "", 
     "matchRule": "id", 
     "findRule": "",
-    "streamTemplate": "https://live4wab.pages.dev/Sony?id=${name}&${logo}&${url2}"
+    "streamTemplate": "https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://playyonogames.in/sliv/stream.m3u8?id=100"
   },
 
 { 
