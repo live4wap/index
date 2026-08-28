@@ -50,7 +50,7 @@
     "player": "player2", 
     "jsonList": "https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/ALL.m3u", 
     "dataSource": "https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/ALL.m3u", 
-    "matchRule": "id", 
+    "matchRule": "name", 
     "findRule": "url",
     "proxy": "https://cz-pli2.hridoytv-dish.workers.dev/proxy/",
     "streamTemplate": ""
