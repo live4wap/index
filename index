@@ -29,7 +29,7 @@
     "player": "player0", 
     "jsonList": "https://raw.githubusercontent.com/live4wap/links/refs/heads/main/jiohd", 
     "dataSource": "https://sonujson-v3.pages.dev/Data/sports.json", 
-    "matchRule": "name", 
+    "matchRule": "url", 
     "findRule": "cookie",
     "streamTemplate": ""
   },
