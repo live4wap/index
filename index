@@ -47,7 +47,7 @@
 { 
     "name": "CRICHD", 
 "logo":"https://m.media-amazon.com/images/I/21h60OobgjL.jpg",
-    "player": "player4", 
+    "player": "player2", 
     "jsonList": "https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/ALL.m3u", 
     "dataSource": "https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/ALL.m3u", 
     "matchRule": "name", 
