@@ -47,9 +47,9 @@
 { 
     "name": "CRICHD", 
 "logo":"https://m.media-amazon.com/images/I/21h60OobgjL.jpg",
-    "player": "player2", 
+    "player": "player4", 
     "jsonList": "https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/ALL.m3u", 
-    "dataSource": "", 
+    "dataSource": "https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/ALL.m3u", 
     "matchRule": "name", 
     "findRule": "url",
     "proxy": "https://cz-pli2.hridoytv-dish.workers.dev/proxy/",
