@@ -41,13 +41,13 @@
     "dataSource": "", 
     "matchRule": "id", 
     "findRule": "",
-    "streamTemplate": "https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://playyonogames.in/sliv/stream.m3u8?id=${id1}"
+    "streamTemplate": "https://tv.hdtvgo.workers.dev/proxy/https://playyonogames.in/sliv/stream.m3u8?id=${id1}"
   },
 
 { 
     "name": "CRICHD", 
 "logo":"https://m.media-amazon.com/images/I/21h60OobgjL.jpg",
-    "player": "player4", 
+    "player": "player2", 
     "jsonList": "https://raw.githubusercontent.com/live4wap/links/refs/heads/main/c", 
     "dataSource": "https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/ALL.m3u", 
     "matchRule": "id", 
