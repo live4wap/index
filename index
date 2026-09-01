@@ -41,7 +41,7 @@
     "dataSource": "", 
     "matchRule": "id", 
     "findRule": "",
-    "streamTemplate": "https://tv.hdtvgo.workers.dev/proxy/https://playyonogames.in/sliv/stream.m3u8?id=${id1}"
+    "streamTemplate": "https://crickcast-fam.pages.dev/api/proxy?u=https://cloudplay-sonyliv.pages.dev/${id2}.m3u8"
   },
 
 { 
